@@ -40,7 +40,7 @@ plot(hc)
 dev.off()
 ```
 
-Выглядеть это будет вполне прилично: см. полученный pdf-файл [здесь](https://github.com/allatambov/cluster-analysis/blob/master/my_dend.pdf). 
+Выглядеть это будет вполне прилично: см. полученный pdf-файл [здесь](https://github.com/allatambov/cluster-analysis/blob/master/clust1/my_dend.pdf). 
 
 *Если вы не знаете, куда R сохранил pdf-файл.* R сохраняет файлы в рабочую папку. Узнать, какая папка является рабочей (и где искать файл) можно так:
 

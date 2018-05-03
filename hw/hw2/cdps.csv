@@ -1,0 +1,36 @@
+country,iso,poco,eu,emu,gov_party,gov_type,vturn,gov_right1,gov_cent1,gov_left1,leftsoc1,comm1,agrarian1,conserv1,relig1,liberal1,green1,ethnic1
+Australia,AUS,No,Non-EU,Non-EMU,Hegemony of right/center parties,Minimal winning coalition,"93,2",100,0,0,0,0,"6,8","38,8",0,0,"8,7",0
+Austria,AUT,No,EU,EMU,Balance of power between left and right,Minimal winning coalition,"74,1",0,50,50,0,0,0,0,24,0,"12,4",0
+Belgium,BEL,No,EU,EMU,Hegemony of right/center parties,Minimal winning coalition,"89,4","64,2857142857","35,7142857143",0,0,0,0,0,0,0,"3,3","20,3"
+Bulgaria,BGR,Post-communist,EU,EMU,Dominance of right/center parties,Multi-party minority government,"51,1","94,8082191781",0,5,"15,4",0,0,"32,7",0,0,0,"14,8"
+Canada, CAN,No,Non-EU,Non-EMU,Hegemony of right/center parties,Single-party majority government,"68,3","84,1095890411","15,8904109589",0,0,0,0,"31,9",0,"39,5","3,4","4,7"
+Croatia,HRV,Post-communist,EU,Non-EMU,Balance of power between left and right,Minimal winning coalition,"60,8","20,5218525766",0,"61,9047619048",0,0,"2,3",0,"29,6","5,6",0,0
+Cyprus,CYP,No,EU,EMU,Hegemony of right/center parties,Single-party majority government,"78,7",75,0,0,0,"32,7",0,"34,3",0,"15,8","2,2",0
+Czech Republic,CZE,Post-communist,EU,Non-EMU,Balance of power between left and right,Minimal winning coalition,"59,5","35,2941176471","17,6470588235","47,0588235294",0,0,0,"7,7","6,8",0,"3,2",0
+Denmark,DNK,No,EU,Non-EMU,Balance of power between left and right,Single-party minority government,"85,9","65,8630136986",0,"34,1369863014","4,2",0,0,"3,4",0,"4,6","4,8",0
+Estonia,EST,Post-communist,EU,EMU,Dominance of right/center parties,Minimal winning coalition,"64,2","65,899543379",0,"31,0136986301",0,0,0,0,0,0,0,0
+France,FRA,No,EU,EMU,Hegemony of left parties,Minimal winning coalition,"57,2",0,0,100,0,"6,9",0,"3,5",0,0,"5,5",0
+Germany,DEU,No,EU,EMU,Balance of power between left and right,Minimal winning coalition,"71,5",0,"62,5","37,5",0,"8,6",0,0,"34,1","4,8","8,4",0
+Greece,GRC,No,EU,EMU,Dominance of left parties,Minimal winning coalition,"56,2","10,9101978691",0,"67,196347032",0,"5,6",0,0,0,0,0,0
+Hungary,HUN,Post-communist,EU,Non-EMU,Hegemony of right/center parties,Single-party majority government,"61,8","72,7272727273",0,0,0,0,0,0,0,0,"5,3",0
+Iceland,ISL,No,Non-EU,Non-EMU,Hegemony of right/center parties,Minimal winning coalition,"81,5",50,50,0,"12,9","10,9","24,4","26,7",0,0,0,0
+Ireland,IRL,No,EU,EMU,Dominance of right/center parties,Minimal winning coalition,"69,9",0,"66,6666666667","33,3333333333",0,0,0,0,"36,1","17,4",0,"9,9"
+Italy,ITA,No,EU,EMU,Hegemony of left parties,Minimal winning coalition,"75,2","0,5801772764","24,5447219984","68,992747784",0,0,0,0,0,0,0,0
+Japan,JPN,No,Non-EU,Non-EMU,Hegemony of right/center parties,Surplus coalition,"52,7","94,7988464311","5,2011535689",0,0,"12,6",0,"42,4","6,1",0,0,0
+Latvia,LVA,Post-communist,EU,EMU,Hegemony of right/center parties,Minimal winning coalition,"59,4","63,8491645341","36,1508354659",0,0,0,0,0,0,0,0,0
+Lithuania,LTU,Post-communist,EU,Non-EMU,Dominance of left parties,Minimal winning coalition,"52,9","13,3333333333",0,"86,6666666667",0,0,0,0,0,0,0,"6,1"
+Luxembourg,LUX,No,EU,EMU,Balance of power between left and right,Minimal winning coalition,"91,3","38,8888888889",0,"61,1111111111","4,5",0,0,0,"34,1","19,1",0,0
+Malta,MLT,No,EU,EMU,Hegemony of left parties,Single-party majority government,93,0,0,100,0,0,0,0,"43,3",0,0,0
+Netherlands,NLD,No,EU,EMU,Balance of power between left and right,Minimal winning coalition,"74,6","53,8461538462",0,"46,1538461538",0,0,0,0,0,"26,6","2,3",0
+New Zealand,NZL,No,Non-EU,Non-EMU,Hegemony of right/center parties,Single-party minority government,"70,9",100,0,0,0,0,0,47,0,0,0,0
+Norway,NOR,No,Non-EU,Non-EMU,Hegemony of right/center parties,Multi-party minority government,"78,2",100,0,0,"4,1",0,"5,5","26,8","5,6","5,2","2,8",0
+Poland,POL,Post-communist,EU,Non-EMU,Dominance of right/center parties,Minimal winning coalition,"50,9","55,6380677722",0,"13,7995674117",0,0,"5,1",0,0,0,0,0
+Portugal,PRT,No,EU,EMU,Dominance of right/center parties,Minimal winning coalition,"55,9","66,7676604889",0,"6,0273972603",0,0,0,0,0,40,0,0
+Romania,ROU,Post-communist,EU,Non-EMU,Dominance of left parties,Minimal winning coalition,"40,9","7,9947814742","7,9947814742","63,686888454",0,0,0,0,0,0,0,"5,1"
+Slovakia,SVK,Post-communist,EU,EMU,Hegemony of left parties,Single-party majority government,"59,1",0,0,100,0,0,0,"8,6","8,8",0,0,0
+Slovenia,SVN,Post-communist,EU,EMU,Balance of power between left and right,Surplus coalition,"51,7","58,8235294118",0,"41,1764705882",0,0,"3,9",0,0,0,0,0
+Spain,ESP,No,EU,EMU,Hegemony of right/center parties,Single-party majority government,"73,2",0,100,0,"20,8","3,7",0,0,0,0,0,"2,3"
+Sweden,SWE,No,EU,Non-EMU,Hegemony of left parties,Multi-party minority government,"85,8",0,0,100,0,"5,7","6,1","23,3","4,6","5,4","6,9",0
+Switzerland,CHE,No,Non-EU,Non-EMU,Dominance of right/center parties,Surplus coalition,"48,5","57,1428571429","14,2857142857","28,5714285714",0,0,0,"4,1","11,7","16,4","7,1",0
+United Kingdom,GBR,No,EU,Non-EMU,Hegemony of right/center parties,Single-party majority government,"66,4",100,0,0,0,0,0,"36,8",0,0,"3,8","4,7"
+USA,USA,No,Non-EU,Non-EMU,Hegemony of right/center parties,Single-party majority government,"35,6","11,7647058824","88,2352941176",0,0,0,0,"50,7",0,"44,9",0,0
